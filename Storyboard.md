@@ -1,4 +1,4 @@
-<h1>Black Social Change  </h1>
+<h1>Black Social Users</h1>
 
 <p><img src="http://www.okayplayer.com/wp-content/uploads/2014/01/black-twitter-2-wide.jpg" alt="Title of Image" />
 <em>Source: <a href="http://www.okayplayer.com/news/pew-poll-study-black-twitter-african-american-social-media.html">Okayplayer</a></em></p>
