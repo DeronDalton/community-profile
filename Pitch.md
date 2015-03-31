@@ -1,6 +1,6 @@
 <h1>Black Social Users</h1>
 
-<p>Weâ€™re focusing on two separate, but potentially overlapping communities: Black millennials impacting social change through social media and African Americans suffering from depression.</p>
+<p>We're focusing on two separate, but potentially overlapping communities: Black millennials impacting social change through social media and African Americans suffering from depression.</p>
 
 <p><strong>Black Mental Health Intro:</strong> Despite representing only a small fraction of the population, African Americans currently account for 18.8% of Americans suffering from a mental illness. The idea of mental illnesses and mental health within the Black community has historically been considered taboo. With the rise of the â€œnewâ€ civil rightsâ€™ era, high rates of low income and homelessness, drug use, and other factors affecting the Black community, it is important now more than ever to acknowledge the existence of mental illness and end the stigma.</p>
 
