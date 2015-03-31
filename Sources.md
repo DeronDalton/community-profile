@@ -85,6 +85,5 @@
 <div class="col-md-4 pull-left">
 
 </div>
-</div> <!-- /row -->		
   </body>
 </html>
