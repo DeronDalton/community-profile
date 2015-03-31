@@ -86,6 +86,5 @@
 
 </div>
 </div> <!-- /row -->		
-	 
   </body>
 </html>
