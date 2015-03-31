@@ -29,7 +29,7 @@
 <p><img src="http://www.okayplayer.com/wp-content/uploads/2014/01/black-twitter-2-wide.jpg" alt="Title of Image" /> <br/>
 
 
-<em>Source: <a href="http://www.okayplayer.com/news/pew-poll-study-black-twitter-african-american-social-media.html">Okayplayer</a></em></p>
+<em>Source: <a href="http://www.okayplayer.com/news/pew-poll-study-black-twitter-african-american-social-media.html">Okayplayer</a></em>
 
 <h2>Three Relevant Stories for Black Social Users:</h2>
 
@@ -39,7 +39,7 @@
 
 <p><a href=”http://www.slideshare.net/slideshow/embed_code/28976193 ”>Black Twitter Fuels a New Consciousness & Movement among Black Millennials</a>
 
-<div>
+</div>
 
 <h2>Black Social Users List of Sources:</h2>
 <p><a href=”http://www.statista.com/statistics/265646/share-of-us-internet-users-who-use-twitter-by-ethnic-background/”>Source: Pew Research Center</a></p>
